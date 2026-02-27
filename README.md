@@ -1,5 +1,4 @@
 # online-recruitment-system
-# Online Recruitment System — Database Course Project
 
 This project is a database course project that implements a full-stack **Online Recruitment System**, including a frontend web UI, backend REST APIs, and MySQL database scripts. It follows a **frontend–backend separated architecture**: the frontend handles page rendering and user interaction, while the backend provides REST APIs and interacts with the MySQL database.
 
